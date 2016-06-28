@@ -2,11 +2,10 @@
 
 /*
 10001st prime
-Published on Friday, 28th December 2001, 06:00 pm; Solved by 270789; Difficulty rating: 5%
 
 By listing the first six prime numbers: 2, 3, 5, 7, 11, and 13, we can see that the 6th prime is 13.
 
-What is the 10 001st prime number?
+What is the 10,001st prime number?
 */
 
 namespace _10001st_prime
