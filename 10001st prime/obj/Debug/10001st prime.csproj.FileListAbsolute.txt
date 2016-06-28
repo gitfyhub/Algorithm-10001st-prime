@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2013\Projects\10001st prime\10001st prime\bin\Debug\10001st prime.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\10001st prime\10001st prime\obj\Debug\10001st prime.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\10001st prime\10001st prime\bin\Debug\10001st prime.exe
+c:\users\admin\documents\visual studio 2013\Projects\10001st prime\10001st prime\bin\Debug\10001st prime.pdb
+c:\users\admin\documents\visual studio 2013\Projects\10001st prime\10001st prime\obj\Debug\10001st prime.exe
+c:\users\admin\documents\visual studio 2013\Projects\10001st prime\10001st prime\obj\Debug\10001st prime.pdb
